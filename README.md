@@ -11,3 +11,11 @@ Eu sou Antonio Luiz, sou um programador Front End, atualmente estou aprendendo e
   [![Antonio's stats](https://github-readme-stats.vercel.app/api?username=AntonioLuiz-dev)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioLuiz-dev)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonioLuiz-dev/AntonioLuiz-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonioLuiz-dev/AntonioLuiz-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AntonioLuiz-dev/AntonioLuiz-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
